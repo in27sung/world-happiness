@@ -92,7 +92,6 @@ project/
 7. Results Interpretation & Summary
 8. CS50 Submission Packaging
 
----
 
 ### Citations
 
@@ -100,7 +99,6 @@ project/
 - [World Bank Data](https://data.worldbank.org)
 - [OECD Data](https://data-explorer.oecd.org)
 
----
 
 ### License & Attribution
 
