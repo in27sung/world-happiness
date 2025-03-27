@@ -93,14 +93,14 @@ project/
 8. CS50 Submission Packaging
 
 
-### Citations
+## Citations
 
 - [World Happiness Report Data (2015-2024)](https://worldhappiness.report)
 - [World Bank Data](https://data.worldbank.org)
 - [OECD Data](https://data-explorer.oecd.org)
 
 
-### License & Attribution
+## License & Attribution
 
 This project is for educational purposes and submitted as part of **CS50’s Introduction to Computer Science 2025 Final Project**.
 
