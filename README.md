@@ -91,7 +91,9 @@ project/
 6. 2024 Happiness Score Prediction
 7. Results Interpretation & Summary
 8. CS50 Submission Packaging
-9. 
+
+---
+
 ### Citations
 
 - [World Happiness Report Data (2015-2024)](https://worldhappiness.report)
