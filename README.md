@@ -2,8 +2,7 @@
 
 #### Video Demo:  [World Happiness](https://youtu.be/WvpXrT8wuOk)
 
-#### Description: 
-This project is submitted as the [**CS50 2025 Final Project**](https://cs50.harvard.edu/x/2025/project/).
+#### Description: This project is submitted as the [**CS50 2025 Final Project**](https://cs50.harvard.edu/x/2025/project/).
 
 ## Overview
 
