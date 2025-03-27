@@ -3,7 +3,7 @@
 #### Video Demo:  <URL HERE>
 
 #### Description: 
-This project is submitted as the **CS50 2025 Final Project**.
+This project is submitted as the [**CS50 2025 Final Project**](https://cs50.harvard.edu/x/2025/project/).
 
 ## Overview
 
@@ -91,19 +91,17 @@ project/
 6. 2024 Happiness Score Prediction
 7. Results Interpretation & Summary
 8. CS50 Submission Packaging
+9. 
+### Citations
 
-## Citations
-
-- World Happiness Report Data (2015-2024): https://worldhappiness.report
-- World Bank Data: https://data.worldbank.org
-- OECD Data: https://data-explorer.oecd.org
+- [World Happiness Report Data (2015-2024)](https://worldhappiness.report)
+- [World Bank Data](https://data.worldbank.org)
+- [OECD Data](https://data-explorer.oecd.org)
 
 ---
 
-## License & Attribution
+### License & Attribution
 
 This project is for educational purposes and submitted as part of **CS50’s Introduction to Computer Science 2025 Final Project**.
 
 **Note:** AI-based tools (ChatGPT) were used to assist with structuring the README and project design but all data handling, analysis, and coding are the author’s original work. AI assistance is acknowledged as required by CS50 guidelines.
-
----
