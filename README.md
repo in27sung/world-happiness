@@ -7,7 +7,11 @@ This project is submitted as the [**CS50 2025 Final Project**](https://cs50.harv
 
 ## Overview
 
-This project investigates the relationship between countries' happiness scores and key economic and social indicators. It specifically addresses data preprocessing challenges, including missing value treatment and data quality issues, to build reliable insights. The final output includes exploratory data analysis, data cleaning, modeling, and a summary of findings.
+This project aims to explore and quantify the complex relationship between national happiness and measurable economic and social indicators. Motivated by the question of what truly drives well-being at a national scale, it seeks to go beyond surface-level economic metrics by incorporating multidimensional data.  
+
+This project includes a deeper investigation into data biases, missing values, and overlooked non-economic factors. Initial findings revealed a strong dependency on GDP in predictive models, often leading to systematic underestimation of happiness in low-income countries. 
+
+The project addresses real-world data challenges—including cross-source integration, inconsistent formatting, and missing values—through rigorous preprocessing and feature engineering. It includes complete workflows for data acquisition, cleaning, exploratory analysis, regression modelling, and model interpretation. The ultimate goal is to produce not only accurate predictions, but also actionable insights into how diverse indicators shape national happiness.
 
 
 ## Objectives
