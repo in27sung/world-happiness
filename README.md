@@ -13,7 +13,7 @@ During the analysis, I started by looking at key issues like missing data and wh
 
 That made me realise that happiness can't be explained by economic strength alone. The current model uses fairly simple preprocessing and interpolation, but this outcome clearly shows that future versions should include more non-economic factors—like trust, freedom, or community support—and more advanced handling of missing data and country-level differences.
 
-The goal of this project isn’t just to make accurate predictions, but to better understand what really drives happiness across the world using data.
+The goal of this project is not just to make accurate predictions, but to better understand what really drives happiness across the world using data.
 
 ## Objectives
 
