@@ -88,9 +88,8 @@ project/
 3. Exploratory Data Analysis (EDA) & Data Profiling
 4. Correlation & Trend Analysis with Visualizations
 5. Simple Regression Model Development
-6. 2024 Happiness Score Prediction
+6. 2023 Happiness Score Prediction
 7. Results Interpretation & Summary
-8. CS50 Submission Packaging
 
 
 ## Citations
