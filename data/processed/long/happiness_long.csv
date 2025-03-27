@@ -1,0 +1,1500 @@
+Year,Country,Happiness Score
+2024,finland,7.736
+2023,afghanistan,1.721
+2022,afghanistan,1.859
+2021,afghanistan,2.404
+2020,afghanistan,2.523
+2019,afghanistan,2.56690001487732
+2018,afghanistan,3.203
+2017,afghanistan,3.632
+2016,afghanistan,3.794
+2015,afghanistan,3.36
+2024,denmark,7.521
+2023,albania,5.304
+2022,albania,5.277
+2021,albania,5.199
+2020,albania,5.117
+2019,albania,4.88269996643066
+2018,albania,4.719
+2017,albania,4.586
+2016,albania,4.644
+2015,albania,4.655
+2024,iceland,7.515
+2023,algeria,5.364
+2022,algeria,5.329
+2021,algeria,5.122
+2020,algeria,4.887
+2019,algeria,5.00509977340698
+2018,algeria,5.211
+2017,algeria,5.295
+2016,algeria,5.872
+2015,algeria,6.355
+2017,angola,3.795
+2016,angola,3.795
+2015,angola,3.866
+2024,sweden,7.345
+2023,argentina,6.188
+2022,argentina,6.024
+2021,argentina,5.967
+2020,argentina,5.929
+2019,argentina,5.97469997406006
+2018,argentina,6.086
+2017,argentina,6.388
+2016,argentina,6.599
+2015,argentina,6.65
+2024,netherlands,7.306
+2023,armenia,5.455
+2022,armenia,5.342
+2021,armenia,5.399
+2020,armenia,5.283
+2019,armenia,4.67679977416992
+2018,armenia,4.559
+2017,armenia,4.321
+2016,armenia,4.376
+2015,armenia,4.36
+2024,costa rica,7.274
+2023,australia,7.057
+2022,australia,7.095
+2021,australia,7.162
+2020,australia,7.183
+2019,australia,7.22279977798462
+2018,australia,7.228
+2017,australia,7.272
+2016,australia,7.284
+2015,australia,7.313
+2024,norway,7.262
+2023,austria,6.905
+2022,austria,7.097
+2021,austria,7.163
+2020,austria,7.268
+2019,austria,7.29419994354248
+2018,austria,7.246
+2017,austria,7.139
+2016,austria,7.006
+2015,austria,7.119
+2024,israel,7.234
+2023,azerbaijan,4.893
+2021,azerbaijan,5.173
+2020,azerbaijan,5.171
+2019,azerbaijan,5.16480016708374
+2018,azerbaijan,5.208
+2017,azerbaijan,5.201
+2016,azerbaijan,5.234
+2015,azerbaijan,5.291
+2024,luxembourg,7.122
+2023,bahrain,5.959
+2022,bahrain,6.173
+2021,bahrain,6.647
+2020,bahrain,6.647
+2019,bahrain,6.22730016708374
+2018,bahrain,6.199
+2017,bahrain,6.105
+2016,bahrain,6.087
+2015,bahrain,6.218
+2024,mexico,6.979
+2023,bangladesh,3.886
+2022,bangladesh,4.282
+2021,bangladesh,5.155
+2020,bangladesh,5.025
+2019,bangladesh,4.83279991149902
+2018,bangladesh,4.456
+2017,bangladesh,4.5
+2016,bangladesh,4.608
+2015,bangladesh,4.643
+2021,belarus,5.821
+2020,belarus,5.534
+2019,belarus,5.5398998260498
+2018,belarus,5.323
+2017,belarus,5.483
+2016,belarus,5.569
+2015,belarus,5.802
+2024,australia,6.974
+2023,belgium,6.894
+2022,belgium,6.859
+2021,belgium,6.805
+2020,belgium,6.834
+2019,belgium,6.86350011825562
+2018,belgium,6.923
+2017,belgium,6.927
+2016,belgium,6.891
+2015,belgium,6.929
+2024,new zealand,6.952
+2017,belize,5.956
+2016,belize,5.956
+2015,belize,5.956
+2024,switzerland,6.935
+2023,benin,4.377
+2022,benin,4.374
+2021,benin,4.623
+2020,benin,5.045
+2019,benin,5.21600008010864
+2018,benin,4.883
+2017,benin,4.141
+2016,benin,3.657
+2015,benin,3.484
+2018,bhutan,5.082
+2017,bhutan,5.082
+2016,bhutan,5.011
+2015,bhutan,5.196
+2024,belgium,6.91
+2023,bolivia,5.784
+2022,bolivia,5.684
+2021,bolivia,5.6
+2020,bolivia,5.716
+2019,bolivia,5.74749994277954
+2018,bolivia,5.779
+2017,bolivia,5.752
+2016,bolivia,5.823
+2015,bolivia,5.822
+2024,ireland,6.889
+2023,bosnia and herzegovina,5.877
+2022,bosnia and herzegovina,5.633
+2021,bosnia and herzegovina,5.768
+2020,bosnia and herzegovina,5.813
+2019,bosnia and herzegovina,5.67409992218018
+2018,bosnia and herzegovina,5.386
+2017,bosnia and herzegovina,5.129
+2016,bosnia and herzegovina,5.182
+2015,bosnia and herzegovina,5.163
+2024,lithuania,6.829
+2023,botswana,3.383
+2022,botswana,3.435
+2021,botswana,3.471
+2020,botswana,3.467
+2019,botswana,3.47889995574951
+2018,botswana,3.488
+2017,botswana,3.59
+2016,botswana,3.766
+2015,botswana,3.974
+2024,austria,6.81
+2023,brazil,6.272
+2022,brazil,6.125
+2021,brazil,6.293
+2020,brazil,6.33
+2019,brazil,6.37559986114502
+2018,brazil,6.3
+2017,brazil,6.419
+2016,brazil,6.635
+2015,brazil,6.952
+2024,canada,6.803
+2023,bulgaria,5.463
+2022,bulgaria,5.466
+2021,bulgaria,5.371
+2020,bulgaria,5.266
+2019,bulgaria,5.10150003433228
+2018,bulgaria,5.011
+2017,bulgaria,4.933
+2016,bulgaria,4.714
+2015,bulgaria,4.217
+2024,slovenia,6.792
+2023,burkina faso,4.548
+2022,burkina faso,4.638
+2021,burkina faso,4.67
+2020,burkina faso,4.834
+2019,burkina faso,4.76870012283325
+2018,burkina faso,4.587
+2017,burkina faso,4.424
+2016,burkina faso,4.032
+2015,burkina faso,3.739
+2020,burundi,3.775
+2019,burundi,3.77530002593994
+2018,burundi,3.775
+2017,burundi,2.905
+2016,burundi,2.905
+2015,burundi,2.905
+2024,czechia,6.775
+2023,cambodia,4.341
+2022,cambodia,4.393
+2021,cambodia,4.64
+2020,cambodia,4.83
+2019,cambodia,4.8484001159668
+2018,cambodia,4.7
+2017,cambodia,4.433
+2016,cambodia,4.168
+2015,cambodia,3.907
+2024,united arab emirates,6.759
+2023,cameroon,4.874
+2022,cameroon,4.973
+2021,cameroon,5.048
+2020,cameroon,5.142
+2019,cameroon,5.08489990234375
+2018,cameroon,5.044
+2017,cameroon,4.975
+2016,cameroon,4.695
+2015,cameroon,4.513
+2024,germany,6.753
+2023,canada,6.9
+2022,canada,6.961
+2021,canada,7.025
+2020,canada,7.103
+2019,canada,7.23210000991821
+2018,canada,7.278
+2017,canada,7.328
+2016,canada,7.316
+2015,canada,7.404
+2019,central african republic,3.47589993476868
+2018,central african republic,3.083
+2017,central african republic,3.083
+2016,central african republic,2.693
+2024,united kingdom,6.728
+2023,chad,4.471
+2022,chad,4.397
+2021,chad,4.251
+2020,chad,4.355
+2019,chad,4.42269992828369
+2018,chad,4.35
+2017,chad,4.301
+2016,chad,3.936
+2015,chad,3.763
+2024,united states,6.724
+2023,chile,6.36
+2022,chile,6.334
+2021,chile,6.172
+2020,chile,6.172
+2019,chile,6.22849988937378
+2018,chile,6.444
+2017,chile,6.476
+2016,chile,6.652
+2015,chile,6.705
+2024,belize,6.711
+2023,china,5.973
+2022,china,5.818
+2021,china,5.585
+2020,china,5.339
+2019,china,5.12389993667603
+2018,china,5.191
+2017,china,5.246
+2016,china,5.273
+2015,china,5.245
+2024,poland,6.673
+2023,colombia,5.695
+2022,colombia,5.63
+2021,colombia,5.781
+2020,colombia,6.012
+2019,colombia,6.16340017318726
+2018,colombia,6.125
+2017,colombia,6.26
+2016,colombia,6.357
+2015,colombia,6.481
+2024,taiwan,6.669
+2023,comoros,3.566
+2022,comoros,3.545
+2021,comoros,4.609
+2020,comoros,4.289
+2019,comoros,4.28859996795654
+2018,comoros,3.973
+2015,comoros,3.956
+2024,uruguay,6.661
+2023,"congo, dem. rep.",5.221
+2022,"congo, dem. rep.",5.267
+2021,"congo, dem. rep.",5.075
+2020,"congo, dem. rep.",5.342
+2019,"congo, dem. rep.",5.1943998336792
+2018,"congo, dem. rep.",4.812
+2017,"congo, dem. rep.",4.559
+2016,"congo, dem. rep.",4.291
+2015,"congo, dem. rep.",4.236
+2024,kosovo,6.659
+2023,costa rica,6.955
+2022,costa rica,6.609
+2021,costa rica,6.582
+2020,costa rica,7.069
+2019,costa rica,7.12139987945557
+2018,costa rica,7.167
+2017,costa rica,7.072
+2016,costa rica,7.079
+2015,costa rica,7.087
+2024,kuwait,6.629
+2023,cote d'ivoire,5.08
+2022,cote d'ivoire,5.053
+2021,cote d'ivoire,5.235
+2020,cote d'ivoire,5.306
+2019,cote d'ivoire,5.23330020904541
+2018,cote d'ivoire,4.944
+2017,cote d'ivoire,4.671
+2016,cote d'ivoire,4.18
+2015,cote d'ivoire,3.916
+2024,serbia,6.606
+2023,croatia,5.942
+2022,croatia,6.125
+2021,croatia,6.125
+2020,croatia,5.882
+2019,croatia,5.50470018386841
+2018,croatia,5.432
+2017,croatia,5.321
+2016,croatia,5.293
+2015,croatia,5.488
+2024,saudi arabia,6.6
+2023,cyprus,6.068
+2022,cyprus,6.13
+2021,cyprus,6.221
+2020,cyprus,6.223
+2019,cyprus,6.15899991989136
+2018,cyprus,6.046
+2017,cyprus,5.762
+2016,cyprus,5.621
+2015,cyprus,5.546
+2024,france,6.593
+2023,czechia,6.822
+2022,czechia,6.845
+2021,czechia,6.92
+2020,czechia,6.965
+2019,czechia,6.9109001159668
+2018,czechia,6.852
+2017,czechia,6.711
+2016,czechia,6.609
+2015,czechia,6.596
+2024,singapore,6.565
+2023,denmark,7.583
+2022,denmark,7.586
+2021,denmark,7.636
+2020,denmark,7.62
+2019,denmark,7.64559984207153
+2018,denmark,7.6
+2017,denmark,7.555
+2016,denmark,7.522
+2015,denmark,7.526
+2024,romania,6.563
+2023,dominican republic,5.823
+2022,dominican republic,5.569
+2021,dominican republic,5.737
+2020,dominican republic,5.545
+2019,dominican republic,5.68919992446899
+2018,dominican republic,5.425
+2017,dominican republic,5.302
+2016,dominican republic,5.23
+2015,dominican republic,5.155
+2024,brazil,6.494
+2023,"congo, dem. rep.",3.295
+2022,"congo, dem. rep.",3.207
+2019,"congo, dem. rep.",4.31099987030029
+2018,"congo, dem. rep.",4.418
+2017,"congo, dem. rep.",4.245
+2016,"congo, dem. rep.",4.28
+2015,"congo, dem. rep.",4.272
+2024,el salvador,6.492
+2023,ecuador,5.725
+2022,ecuador,5.559
+2021,ecuador,5.533
+2020,ecuador,5.764
+2019,ecuador,5.92519998550415
+2018,ecuador,6.028
+2017,ecuador,5.973
+2016,ecuador,6.008
+2015,ecuador,5.976
+2024,spain,6.466
+2023,"egypt, arab rep.",3.977
+2022,"egypt, arab rep.",4.17
+2021,"egypt, arab rep.",4.288
+2020,"egypt, arab rep.",4.283
+2019,"egypt, arab rep.",4.15140008926392
+2018,"egypt, arab rep.",4.166
+2017,"egypt, arab rep.",4.419
+2016,"egypt, arab rep.",4.735
+2015,"egypt, arab rep.",4.362
+2024,estonia,6.417
+2023,el salvador,6.469
+2022,el salvador,6.122
+2021,el salvador,6.12
+2020,el salvador,6.061
+2019,el salvador,6.34829998016357
+2018,el salvador,6.253
+2017,el salvador,6.167
+2016,el salvador,6.003
+2015,el salvador,6.068
+2024,italy,6.415
+2023,estonia,6.448
+2022,estonia,6.455
+2021,estonia,6.341
+2020,estonia,6.189
+2019,estonia,6.02180004119873
+2018,estonia,5.893
+2017,estonia,5.739
+2016,estonia,5.611
+2015,estonia,5.517
+2024,panama,6.407
+2023,eswatini,3.502
+2021,eswatini,4.396
+2024,argentina,6.397
+2023,ethiopia,3.861
+2022,ethiopia,4.091
+2021,ethiopia,4.241
+2020,ethiopia,4.275
+2019,ethiopia,4.18620014190674
+2018,ethiopia,4.286
+2017,ethiopia,4.35
+2016,ethiopia,4.46
+2015,ethiopia,4.508
+2024,kazakhstan,6.378
+2023,finland,7.741
+2022,finland,7.804
+2021,finland,7.821
+2020,finland,7.842
+2019,finland,7.80870008468628
+2018,finland,7.769
+2017,finland,7.632
+2016,finland,7.469
+2015,finland,7.413
+2024,guatemala,6.362
+2023,france,6.609
+2022,france,6.661
+2021,france,6.687
+2020,france,6.69
+2019,france,6.66379976272583
+2018,france,6.592
+2017,france,6.489
+2016,france,6.442
+2015,france,6.478
+2024,chile,6.361
+2023,gabon,5.106
+2022,gabon,5.035
+2021,gabon,4.958
+2020,gabon,4.852
+2019,gabon,4.82929992675781
+2018,gabon,4.799
+2017,gabon,4.758
+2016,gabon,4.465
+2015,gabon,4.121
+2024,viet nam,6.352
+2023,"gambia, the",4.485
+2022,"gambia, the",4.279
+2021,"gambia, the",5.164
+2020,"gambia, the",5.051
+2019,"gambia, the",4.75059986114502
+2018,"gambia, the",4.516
+2024,nicaragua,6.33
+2023,georgia,5.185
+2022,georgia,5.109
+2021,georgia,4.973
+2020,georgia,4.891
+2019,georgia,4.67259979248047
+2018,georgia,4.519
+2017,georgia,4.34
+2016,georgia,4.286
+2015,georgia,4.252
+2024,malta,6.316
+2023,germany,6.719
+2022,germany,6.892
+2021,germany,7.034
+2020,germany,7.155
+2019,germany,7.0757999420166
+2018,germany,6.985
+2017,germany,6.965
+2016,germany,6.951
+2015,germany,6.994
+2024,thailand,6.222
+2023,ghana,4.289
+2022,ghana,4.605
+2021,ghana,4.872
+2020,ghana,5.088
+2019,ghana,5.14799976348877
+2018,ghana,4.996
+2017,ghana,4.657
+2016,ghana,4.12
+2015,ghana,4.276
+2024,slovak republic,6.221
+2023,greece,5.934
+2022,greece,5.931
+2021,greece,5.948
+2020,greece,5.723
+2019,greece,5.5149998664856
+2018,greece,5.287
+2017,greece,5.358
+2016,greece,5.227
+2015,greece,5.033
+2024,latvia,6.207
+2023,guatemala,6.287
+2022,guatemala,6.15
+2021,guatemala,6.262
+2020,guatemala,6.435
+2019,guatemala,6.39890003204346
+2018,guatemala,6.436
+2017,guatemala,6.382
+2016,guatemala,6.454
+2015,guatemala,6.324
+2024,oman,6.197
+2023,guinea,5.023
+2022,guinea,5.072
+2021,guinea,4.891
+2020,guinea,4.984
+2019,guinea,4.94929981231689
+2018,guinea,4.534
+2017,guinea,3.964
+2016,guinea,3.507
+2015,guinea,3.607
+2020,haiti,3.615
+2019,haiti,3.72079992294312
+2018,haiti,3.597
+2017,haiti,3.582
+2016,haiti,3.603
+2015,haiti,4.028
+2024,uzbekistan,6.193
+2023,honduras,5.968
+2022,honduras,6.023
+2021,honduras,6.022
+2020,honduras,5.919
+2019,honduras,5.95319986343384
+2018,honduras,5.86
+2017,honduras,5.504
+2016,honduras,5.181
+2015,honduras,4.871
+2024,paraguay,6.172
+2023,"hong kong sar, china",5.316
+2022,"hong kong sar, china",5.308
+2021,"hong kong sar, china",5.425
+2020,"hong kong sar, china",5.477
+2019,"hong kong sar, china",5.51039981842041
+2018,"hong kong sar, china",5.43
+2017,"hong kong sar, china",5.43
+2016,"hong kong sar, china",5.472
+2015,"hong kong sar, china",5.458
+2024,japan,6.147
+2023,hungary,6.017
+2022,hungary,6.041
+2021,hungary,6.086
+2020,hungary,5.992
+2019,hungary,6.00040006637573
+2018,hungary,5.758
+2017,hungary,5.62
+2016,hungary,5.324
+2015,hungary,5.145
+2024,bosnia and herzegovina,6.136
+2023,iceland,7.525
+2022,iceland,7.53
+2021,iceland,7.557
+2020,iceland,7.554
+2019,iceland,7.50449991226196
+2018,iceland,7.494
+2017,iceland,7.495
+2016,iceland,7.504
+2015,iceland,7.501
+2024,philippines,6.107
+2023,india,4.054
+2022,india,4.036
+2021,india,3.777
+2020,india,3.819
+2019,india,3.57329988479614
+2018,india,4.015
+2017,india,4.19
+2016,india,4.315
+2015,india,4.404
+2024,"korea, rep.",6.038
+2023,indonesia,5.568
+2022,indonesia,5.277
+2021,indonesia,5.24
+2020,indonesia,5.345
+2019,indonesia,5.28560018539429
+2018,indonesia,5.192
+2017,indonesia,5.093
+2016,indonesia,5.262
+2015,indonesia,5.314
+2024,bahrain,6.03
+2023,"iran, islamic rep.",4.923
+2022,"iran, islamic rep.",4.876
+2021,"iran, islamic rep.",4.888
+2020,"iran, islamic rep.",4.721
+2019,"iran, islamic rep.",4.67239999771118
+2018,"iran, islamic rep.",4.548
+2017,"iran, islamic rep.",4.707
+2016,"iran, islamic rep.",4.692
+2015,"iran, islamic rep.",4.813
+2024,portugal,6.013
+2023,iraq,5.166
+2022,iraq,4.941
+2021,iraq,4.941
+2020,iraq,4.854
+2019,iraq,4.78480005264282
+2018,iraq,4.437
+2017,iraq,4.456
+2016,iraq,4.497
+2015,iraq,4.575
+2024,colombia,6.004
+2023,ireland,6.838
+2022,ireland,6.911
+2021,ireland,7.041
+2020,ireland,7.085
+2019,ireland,7.09369993209839
+2018,ireland,7.021
+2017,ireland,6.977
+2016,ireland,6.977
+2015,ireland,6.907
+2024,ecuador,5.965
+2023,israel,7.341
+2022,israel,7.473
+2021,israel,7.364
+2020,israel,7.157
+2019,israel,7.12860012054443
+2018,israel,7.139
+2017,israel,7.19
+2016,israel,7.213
+2015,israel,7.267
+2024,honduras,5.964
+2023,italy,6.324
+2022,italy,6.405
+2021,italy,6.467
+2020,italy,6.483
+2019,italy,6.38740015029907
+2018,italy,6.223
+2017,italy,6.0
+2016,italy,5.964
+2015,italy,5.977
+2024,malaysia,5.955
+2023,jamaica,5.842
+2022,jamaica,5.703
+2021,jamaica,5.85
+2020,jamaica,6.309
+2019,jamaica,5.88980007171631
+2018,jamaica,5.89
+2017,jamaica,5.89
+2016,jamaica,5.311
+2015,jamaica,5.51
+2024,peru,5.947
+2023,japan,6.06
+2022,japan,6.129
+2021,japan,6.039
+2020,japan,5.94
+2019,japan,5.87080001831055
+2018,japan,5.886
+2017,japan,5.915
+2016,japan,5.92
+2015,japan,5.921
+2024,russian federation,5.945
+2023,jordan,4.186
+2022,jordan,4.12
+2021,jordan,4.152
+2020,jordan,4.395
+2019,jordan,4.63339996337891
+2018,jordan,4.906
+2017,jordan,5.161
+2016,jordan,5.336
+2015,jordan,5.303
+2024,cyprus,5.942
+2023,kazakhstan,6.188
+2022,kazakhstan,6.144
+2021,kazakhstan,6.234
+2020,kazakhstan,6.152
+2019,kazakhstan,6.05789995193481
+2018,kazakhstan,5.809
+2017,kazakhstan,5.79
+2016,kazakhstan,5.819
+2015,kazakhstan,5.919
+2024,china,5.921
+2023,kenya,4.47
+2022,kenya,4.487
+2021,kenya,4.543
+2020,kenya,4.607
+2019,kenya,4.58300018310547
+2018,kenya,4.509
+2017,kenya,4.41
+2016,kenya,4.553
+2015,kenya,4.356
+2024,hungary,5.915
+2023,kosovo,6.561
+2022,kosovo,6.368
+2021,kosovo,6.455
+2020,kosovo,6.372
+2019,kosovo,6.32520008087158
+2018,kosovo,6.1
+2017,kosovo,5.662
+2016,kosovo,5.279
+2015,kosovo,5.401
+2024,trinidad and tobago,5.905
+2023,kuwait,6.951
+2021,kuwait,6.106
+2020,kuwait,6.106
+2019,kuwait,6.10209989547729
+2018,kuwait,6.021
+2017,kuwait,6.083
+2016,kuwait,6.105
+2015,kuwait,6.239
+2024,montenegro,5.877
+2023,kyrgyz republic,5.714
+2022,kyrgyz republic,5.825
+2021,kyrgyz republic,5.828
+2020,kyrgyz republic,5.744
+2019,kyrgyz republic,5.54150009155273
+2018,kyrgyz republic,5.261
+2017,kyrgyz republic,5.131
+2016,kyrgyz republic,5.004
+2015,kyrgyz republic,5.185
+2024,croatia,5.87
+2023,lao pdr,5.139
+2022,lao pdr,5.111
+2021,lao pdr,5.14
+2020,lao pdr,5.03
+2019,lao pdr,4.88859987258911
+2018,lao pdr,4.796
+2017,lao pdr,4.623
+2015,lao pdr,4.876
+2024,jamaica,5.87
+2023,latvia,6.234
+2022,latvia,6.213
+2021,latvia,6.18
+2020,latvia,6.032
+2019,latvia,5.94999980926514
+2018,latvia,5.94
+2017,latvia,5.933
+2016,latvia,5.85
+2015,latvia,5.56
+2024,bolivia,5.868
+2023,lebanon,2.707
+2022,lebanon,2.392
+2021,lebanon,2.955
+2020,lebanon,4.584
+2019,lebanon,4.77150011062622
+2018,lebanon,5.197
+2017,lebanon,5.199
+2016,lebanon,5.225
+2015,lebanon,5.129
+2024,kyrgyz republic,5.858
+2023,lesotho,3.186
+2021,lesotho,3.512
+2020,lesotho,3.512
+2019,lesotho,3.6528000831604
+2018,lesotho,3.802
+2017,lesotho,3.808
+2016,lesotho,3.808
+2024,dominican republic,5.846
+2023,liberia,4.269
+2022,liberia,4.042
+2021,liberia,5.122
+2020,liberia,4.625
+2019,liberia,4.55789995193481
+2018,liberia,3.975
+2017,liberia,3.495
+2016,liberia,3.533
+2015,liberia,3.622
+2024,mongolia,5.833
+2023,libya,5.866
+2021,libya,5.33
+2020,libya,5.41
+2019,libya,5.48880004882813
+2018,libya,5.525
+2017,libya,5.566
+2016,libya,5.525
+2015,libya,5.615
+2024,mauritius,5.832
+2023,lithuania,6.818
+2022,lithuania,6.763
+2021,lithuania,6.446
+2020,lithuania,6.255
+2019,lithuania,6.21549987792969
+2018,lithuania,6.149
+2017,lithuania,5.952
+2016,lithuania,5.902
+2015,lithuania,5.813
+2024,libya,5.82
+2023,luxembourg,7.122
+2022,luxembourg,7.228
+2021,luxembourg,7.404
+2020,luxembourg,7.324
+2019,luxembourg,7.23750019073486
+2018,luxembourg,7.09
+2017,luxembourg,6.91
+2016,luxembourg,6.863
+2015,luxembourg,6.871
+2019,north macedonia,5.15980005264282
+2024,moldova,5.819
+2023,madagascar,4.228
+2022,madagascar,4.019
+2021,madagascar,4.339
+2020,madagascar,4.208
+2019,madagascar,4.16559982299805
+2018,madagascar,3.933
+2017,madagascar,3.774
+2016,madagascar,3.644
+2015,madagascar,3.695
+2024,greece,5.776
+2023,malawi,3.421
+2022,malawi,3.495
+2021,malawi,3.75
+2020,malawi,3.6
+2019,malawi,3.53800010681152
+2018,malawi,3.41
+2017,malawi,3.587
+2016,malawi,3.97
+2015,malawi,4.156
+2024,"venezuela, rb",5.683
+2023,malaysia,5.975
+2022,malaysia,6.012
+2021,malaysia,5.711
+2020,malaysia,5.384
+2019,malaysia,5.38430023193359
+2018,malaysia,5.339
+2017,malaysia,6.322
+2016,malaysia,6.084
+2015,malaysia,6.005
+2020,maldives,5.198
+2019,maldives,5.1975998878479
+2024,indonesia,5.617
+2023,mali,4.232
+2022,mali,4.198
+2021,mali,4.479
+2020,mali,4.723
+2019,mali,4.72930002212524
+2018,mali,4.39
+2017,mali,4.447
+2016,mali,4.19
+2015,mali,4.073
+2024,algeria,5.571
+2023,malta,6.346
+2022,malta,6.3
+2021,malta,6.447
+2020,malta,6.602
+2019,malta,6.77279996871948
+2018,malta,6.726
+2017,malta,6.627
+2016,malta,6.527
+2015,malta,6.488
+2024,bulgaria,5.554
+2023,mauritania,4.505
+2022,mauritania,4.724
+2021,mauritania,4.153
+2020,mauritania,4.227
+2019,mauritania,4.37459993362427
+2018,mauritania,4.49
+2017,mauritania,4.356
+2016,mauritania,4.292
+2015,mauritania,4.201
+2024,north macedonia,5.503
+2023,mauritius,5.816
+2022,mauritius,5.902
+2021,mauritius,6.071
+2020,mauritius,6.049
+2019,mauritius,6.10129976272583
+2018,mauritius,5.888
+2017,mauritius,5.891
+2016,mauritius,5.629
+2015,mauritius,5.648
+2024,armenia,5.494
+2023,mexico,6.678
+2022,mexico,6.33
+2021,mexico,6.128
+2020,mexico,6.317
+2019,mexico,6.46500015258789
+2018,mexico,6.595
+2017,mexico,6.488
+2016,mexico,6.578
+2015,mexico,6.778
+2024,"hong kong sar, china",5.491
+2023,mongolia,5.696
+2022,mongolia,5.84
+2021,mongolia,5.761
+2020,mongolia,5.677
+2019,mongolia,5.45620012283325
+2018,mongolia,5.285
+2017,mongolia,5.125
+2016,mongolia,4.955
+2015,mongolia,4.907
+2024,albania,5.411
+2023,montenegro,5.707
+2022,montenegro,5.722
+2021,montenegro,5.547
+2020,montenegro,5.581
+2019,montenegro,5.54610013961792
+2018,montenegro,5.523
+2017,montenegro,5.347
+2016,montenegro,5.237
+2015,montenegro,5.161
+2024,tajikistan,5.411
+2023,morocco,4.795
+2022,morocco,4.903
+2021,morocco,5.06
+2020,morocco,4.918
+2019,morocco,5.09479999542236
+2018,morocco,5.208
+2017,morocco,5.254
+2016,morocco,5.235
+2015,morocco,5.151
+2024,georgia,5.4
+2023,mozambique,5.216
+2022,mozambique,4.954
+2021,mozambique,5.048
+2020,mozambique,4.794
+2019,mozambique,4.62360000610352
+2018,mozambique,4.466
+2017,mozambique,4.417
+2016,mozambique,4.55
+2024,nepal,5.311
+2023,myanmar,4.354
+2022,myanmar,4.372
+2021,myanmar,4.394
+2020,myanmar,4.426
+2019,myanmar,4.30800008773804
+2018,myanmar,4.36
+2017,myanmar,4.308
+2016,myanmar,4.545
+2015,myanmar,4.395
+2024,lao pdr,5.301
+2023,namibia,4.832
+2022,namibia,4.631
+2021,namibia,4.459
+2020,namibia,4.574
+2019,namibia,4.57110023498535
+2018,namibia,4.639
+2017,namibia,4.441
+2016,namibia,4.574
+2015,namibia,4.574
+2024,turkiye,5.262
+2023,nepal,5.158
+2022,nepal,5.36
+2021,nepal,5.377
+2020,nepal,5.269
+2019,nepal,5.13719987869263
+2018,nepal,4.913
+2017,nepal,4.88
+2016,nepal,4.962
+2015,nepal,4.793
+2024,south africa,5.213
+2023,netherlands,7.319
+2022,netherlands,7.403
+2021,netherlands,7.415
+2020,netherlands,7.464
+2019,netherlands,7.44890022277832
+2018,netherlands,7.488
+2017,netherlands,7.441
+2016,netherlands,7.377
+2015,netherlands,7.339
+2024,mozambique,5.19
+2023,new zealand,7.029
+2022,new zealand,7.123
+2021,new zealand,7.2
+2020,new zealand,7.277
+2019,new zealand,7.29960012435913
+2018,new zealand,7.307
+2017,new zealand,7.324
+2016,new zealand,7.314
+2015,new zealand,7.334
+2024,gabon,5.12
+2023,nicaragua,6.284
+2022,nicaragua,6.259
+2021,nicaragua,6.165
+2020,nicaragua,5.972
+2019,nicaragua,6.13710021972656
+2018,nicaragua,6.105
+2017,nicaragua,6.141
+2016,nicaragua,6.071
+2015,nicaragua,5.992
+2024,cote d'ivoire,5.102
+2023,niger,4.556
+2022,niger,4.501
+2021,niger,5.003
+2020,niger,5.074
+2019,niger,4.90959978103638
+2018,niger,4.628
+2017,niger,4.166
+2016,niger,4.028
+2015,niger,3.856
+2024,"iran, islamic rep.",5.093
+2023,nigeria,4.881
+2022,nigeria,4.981
+2021,nigeria,4.552
+2020,nigeria,4.759
+2019,nigeria,4.72410011291504
+2018,nigeria,5.265
+2017,nigeria,5.155
+2016,nigeria,5.074
+2015,nigeria,4.875
+2021,cyprus,5.467
+2020,cyprus,5.536
+2019,cyprus,5.53550004959106
+2018,cyprus,5.718
+2017,cyprus,5.835
+2016,cyprus,5.81
+2015,cyprus,5.771
+2024,"congo, dem. rep.",5.03
+2023,north macedonia,5.369
+2022,north macedonia,5.254
+2021,north macedonia,5.199
+2020,north macedonia,5.101
+2018,north macedonia,5.274
+2017,north macedonia,5.185
+2016,north macedonia,5.175
+2015,north macedonia,5.121
+2024,iraq,4.976
+2023,norway,7.302
+2022,norway,7.315
+2021,norway,7.365
+2020,norway,7.392
+2019,norway,7.48799991607666
+2018,norway,7.554
+2017,norway,7.594
+2016,norway,7.537
+2015,norway,7.498
+2024,guinea,4.929
+2024,namibia,4.911
+2023,pakistan,4.657
+2022,pakistan,4.555
+2021,pakistan,4.516
+2020,pakistan,4.934
+2019,pakistan,5.69329977035522
+2018,pakistan,5.653
+2017,pakistan,5.472
+2016,pakistan,5.269
+2015,pakistan,5.132
+2024,cameroon,4.887
+2023,panama,6.358
+2022,panama,6.265
+2021,panama,6.309
+2020,panama,6.18
+2019,panama,6.30480003356934
+2018,panama,6.321
+2017,panama,6.43
+2016,panama,6.452
+2015,panama,6.701
+2024,nigeria,4.885
+2023,paraguay,5.977
+2022,paraguay,5.738
+2021,paraguay,5.578
+2020,paraguay,5.653
+2019,paraguay,5.69210004806519
+2018,paraguay,5.743
+2017,paraguay,5.681
+2016,paraguay,5.493
+2015,paraguay,5.538
+2024,azerbaijan,4.875
+2023,peru,5.841
+2022,peru,5.526
+2021,peru,5.559
+2020,peru,5.84
+2019,peru,5.79680013656616
+2018,peru,5.697
+2017,peru,5.663
+2016,peru,5.715
+2015,peru,5.743
+2024,senegal,4.856
+2023,philippines,6.048
+2022,philippines,5.523
+2021,philippines,5.904
+2020,philippines,5.88
+2019,philippines,6.00600004196167
+2018,philippines,5.631
+2017,philippines,5.524
+2016,philippines,5.43
+2015,philippines,5.279
+2024,state of palestine,4.78
+2023,poland,6.442
+2022,poland,6.26
+2021,poland,6.123
+2020,poland,6.166
+2019,poland,6.1862998008728
+2018,poland,6.182
+2017,poland,6.123
+2016,poland,5.973
+2015,poland,5.835
+2024,pakistan,4.768
+2023,portugal,6.03
+2022,portugal,5.968
+2021,portugal,6.016
+2020,portugal,5.929
+2019,portugal,5.9109001159668
+2018,portugal,5.693
+2017,portugal,5.41
+2016,portugal,5.195
+2015,portugal,5.123
+2015,puerto rico,7.039
+2018,qatar,6.374
+2017,qatar,6.374
+2016,qatar,6.375
+2015,qatar,6.375
+2024,niger,4.725
+2023,"korea, rep.",6.058
+2022,"korea, rep.",5.951
+2021,"korea, rep.",5.935
+2020,"korea, rep.",5.845
+2019,"korea, rep.",5.87239980697632
+2018,"korea, rep.",5.895
+2017,"korea, rep.",5.875
+2016,"korea, rep.",5.838
+2015,"korea, rep.",5.835
+2024,ukraine,4.68
+2023,moldova,5.816
+2022,moldova,5.819
+2021,moldova,5.857
+2020,moldova,5.766
+2019,moldova,5.60750007629395
+2018,moldova,5.529
+2017,moldova,5.64
+2016,moldova,5.838
+2015,moldova,5.897
+2024,morocco,4.622
+2023,romania,6.491
+2022,romania,6.589
+2021,romania,6.477
+2020,romania,6.14
+2019,romania,6.12370014190674
+2018,romania,6.07
+2017,romania,5.945
+2016,romania,5.825
+2015,romania,5.528
+2024,tunisia,4.552
+2023,russian federation,5.785
+2022,russian federation,5.661
+2021,russian federation,5.459
+2020,russian federation,5.477
+2019,russian federation,5.5460000038147
+2018,russian federation,5.648
+2017,russian federation,5.81
+2016,russian federation,5.963
+2015,russian federation,5.856
+2021,rwanda,3.268
+2020,rwanda,3.415
+2019,rwanda,3.31229996681213
+2018,rwanda,3.334
+2017,rwanda,3.408
+2016,rwanda,3.471
+2015,rwanda,3.515
+2024,mauritania,4.542
+2023,saudi arabia,6.594
+2022,saudi arabia,6.463
+2021,saudi arabia,6.523
+2020,saudi arabia,6.494
+2019,saudi arabia,6.4064998626709
+2018,saudi arabia,6.375
+2017,saudi arabia,6.371
+2016,saudi arabia,6.344
+2015,saudi arabia,6.379
+2024,kenya,4.51
+2023,senegal,4.969
+2022,senegal,4.855
+2021,senegal,5.046
+2020,senegal,5.132
+2019,senegal,4.98080015182495
+2018,senegal,4.681
+2017,senegal,4.631
+2016,senegal,4.535
+2015,senegal,4.219
+2024,uganda,4.461
+2023,serbia,6.411
+2022,serbia,6.144
+2021,serbia,6.178
+2020,serbia,6.078
+2019,serbia,5.77820014953613
+2018,serbia,5.603
+2017,serbia,5.398
+2016,serbia,5.395
+2015,serbia,5.177
+2024,"gambia, the",4.423
+2023,sierra leone,3.245
+2022,sierra leone,3.138
+2021,sierra leone,3.574
+2020,sierra leone,3.849
+2019,sierra leone,3.92639994621277
+2018,sierra leone,4.374
+2017,sierra leone,4.571
+2016,sierra leone,4.709
+2015,sierra leone,4.635
+2024,india,4.389
+2023,singapore,6.523
+2022,singapore,6.587
+2021,singapore,6.48
+2020,singapore,6.377
+2019,singapore,6.37709999084473
+2018,singapore,6.262
+2017,singapore,6.343
+2016,singapore,6.572
+2015,singapore,6.739
+2024,chad,4.384
+2023,slovak republic,6.257
+2022,slovak republic,6.469
+2021,slovak republic,6.391
+2020,slovak republic,6.331
+2019,slovak republic,6.28060007095337
+2018,slovak republic,6.198
+2017,slovak republic,6.173
+2016,slovak republic,6.098
+2015,slovak republic,6.078
+2024,burkina faso,4.383
+2023,slovenia,6.743
+2022,slovenia,6.65
+2021,slovenia,6.63
+2020,slovenia,6.461
+2019,slovenia,6.36339998245239
+2018,slovenia,6.118
+2017,slovenia,5.948
+2016,slovenia,5.758
+2015,slovenia,5.768
+2024,benin,4.357
+2018,somalia,4.668
+2017,somalia,4.982
+2016,somalia,5.151
+2015,somalia,5.44
+2015,somaliland region,5.057
+2024,somalia,4.347
+2023,south africa,5.422
+2022,south africa,5.275
+2021,south africa,5.194
+2020,south africa,4.956
+2019,south africa,4.81409978866577
+2018,south africa,4.722
+2017,south africa,4.724
+2016,south africa,4.829
+2015,south africa,4.459
+2019,south sudan,2.81660008430481
+2018,south sudan,2.853
+2017,south sudan,3.254
+2016,south sudan,3.591
+2015,south sudan,3.832
+2024,mali,4.345
+2023,spain,6.421
+2022,spain,6.436
+2021,spain,6.476
+2020,spain,6.491
+2019,spain,6.40089988708496
+2018,spain,6.354
+2017,spain,6.31
+2016,spain,6.403
+2015,spain,6.361
+2024,cambodia,4.341
+2023,sri lanka,3.898
+2022,sri lanka,4.442
+2021,sri lanka,4.362
+2020,sri lanka,4.325
+2019,sri lanka,4.3270001411438
+2018,sri lanka,4.366
+2017,sri lanka,4.471
+2016,sri lanka,4.44
+2015,sri lanka,4.415
+2024,ghana,4.34
+2023,state of palestine,4.879
+2022,state of palestine,4.908
+2021,state of palestine,4.483
+2020,state of palestine,4.517
+2019,state of palestine,4.55280017852783
+2018,state of palestine,4.696
+2017,state of palestine,4.743
+2016,state of palestine,4.775
+2015,state of palestine,4.754
+2017,sudan,4.139
+2016,sudan,4.139
+2015,sudan,4.139
+2015,suriname,6.269
+2020,eswatini,4.308
+2019,eswatini,4.30810022354126
+2018,eswatini,4.212
+2024,myanmar,4.321
+2023,sweden,7.344
+2022,sweden,7.395
+2021,sweden,7.384
+2020,sweden,7.363
+2019,sweden,7.35349988937378
+2018,sweden,7.343
+2017,sweden,7.314
+2016,sweden,7.284
+2015,sweden,7.291
+2024,togo,4.315
+2023,switzerland,7.06
+2022,switzerland,7.24
+2021,switzerland,7.512
+2020,switzerland,7.571
+2019,switzerland,7.55989980697632
+2018,switzerland,7.48
+2017,switzerland,7.487
+2016,switzerland,7.494
+2015,switzerland,7.509
+2018,syrian arab republic,3.462
+2017,syrian arab republic,3.462
+2016,syrian arab republic,3.462
+2015,syrian arab republic,3.069
+2024,jordan,4.31
+2023,taiwan,6.503
+2022,taiwan,6.535
+2021,taiwan,6.512
+2020,taiwan,6.584
+2019,taiwan,6.45539999008179
+2018,taiwan,6.446
+2017,taiwan,6.441
+2016,taiwan,6.422
+2015,taiwan,6.379
+2024,liberia,4.277
+2023,tajikistan,5.281
+2022,tajikistan,5.33
+2021,tajikistan,5.377
+2020,tajikistan,5.466
+2019,tajikistan,5.55569982528687
+2018,tajikistan,5.467
+2017,tajikistan,5.352
+2016,tajikistan,5.041
+2015,tajikistan,4.996
+2024,madagascar,4.157
+2023,tanzania,3.781
+2022,tanzania,3.694
+2021,tanzania,3.702
+2020,tanzania,3.623
+2019,tanzania,3.47620010375977
+2018,tanzania,3.231
+2017,tanzania,3.303
+2016,tanzania,3.349
+2015,tanzania,3.666
+2024,zambia,3.912
+2023,thailand,5.976
+2022,thailand,5.843
+2021,thailand,5.891
+2020,thailand,5.985
+2019,thailand,5.9987998008728
+2018,thailand,6.008
+2017,thailand,6.072
+2016,thailand,6.424
+2015,thailand,6.474
+2024,ethiopia,3.898
+2023,togo,4.214
+2022,togo,4.137
+2021,togo,4.112
+2020,togo,4.107
+2019,togo,4.18720006942749
+2018,togo,4.085
+2017,togo,3.999
+2016,togo,3.495
+2015,togo,3.303
+2024,sri lanka,3.891
+2019,trinidad and tobago,6.19189977645874
+2018,trinidad and tobago,6.192
+2017,trinidad and tobago,6.192
+2016,trinidad and tobago,6.168
+2015,trinidad and tobago,6.168
+2024,bangladesh,3.851
+2023,tunisia,4.422
+2022,tunisia,4.497
+2021,tunisia,4.516
+2020,tunisia,4.596
+2019,tunisia,4.39219999313354
+2018,tunisia,4.461
+2017,tunisia,4.592
+2016,tunisia,4.805
+2015,tunisia,5.045
+2024,"egypt, arab rep.",3.817
+2023,turkiye,4.975
+2022,turkiye,4.614
+2021,turkiye,4.744
+2020,turkiye,4.948
+2019,turkiye,5.13180017471313
+2018,turkiye,5.373
+2017,turkiye,5.483
+2016,turkiye,5.5
+2015,turkiye,5.389
+2021,turkmenistan,5.474
+2020,turkmenistan,5.066
+2019,turkmenistan,5.11910009384155
+2018,turkmenistan,5.247
+2017,turkmenistan,5.636
+2016,turkmenistan,5.822
+2015,turkmenistan,5.658
+2024,tanzania,3.8
+2023,uganda,4.372
+2022,uganda,4.432
+2021,uganda,4.603
+2020,uganda,4.636
+2019,uganda,4.43200016021729
+2018,uganda,4.189
+2017,uganda,4.161
+2016,uganda,4.081
+2015,uganda,3.739
+2024,eswatini,3.774
+2023,ukraine,4.873
+2022,ukraine,5.071
+2021,ukraine,5.084
+2020,ukraine,4.875
+2019,ukraine,4.56069993972778
+2018,ukraine,4.332
+2017,ukraine,4.103
+2016,ukraine,4.096
+2015,ukraine,4.324
+2024,lesotho,3.757
+2023,united arab emirates,6.733
+2022,united arab emirates,6.571
+2021,united arab emirates,6.576
+2020,united arab emirates,6.561
+2019,united arab emirates,6.79080009460449
+2018,united arab emirates,6.825
+2017,united arab emirates,6.774
+2016,united arab emirates,6.648
+2015,united arab emirates,6.573
+2024,comoros,3.754
+2023,united kingdom,6.749
+2022,united kingdom,6.796
+2021,united kingdom,6.943
+2020,united kingdom,7.064
+2019,united kingdom,7.16450023651123
+2018,united kingdom,7.054
+2017,united kingdom,6.814
+2016,united kingdom,6.714
+2015,united kingdom,6.725
+2024,"yemen, rep.",3.561
+2023,united states,6.725
+2022,united states,6.894
+2021,united states,6.977
+2020,united states,6.951
+2019,united states,6.93959999084473
+2018,united states,6.892
+2017,united states,6.886
+2016,united states,6.993
+2015,united states,7.104
+2024,"congo, dem. rep.",3.469
+2023,uruguay,6.611
+2022,uruguay,6.494
+2021,uruguay,6.474
+2020,uruguay,6.431
+2019,uruguay,6.44010019302368
+2018,uruguay,6.293
+2017,uruguay,6.379
+2016,uruguay,6.454
+2015,uruguay,6.545
+2024,botswana,3.438
+2023,uzbekistan,6.195
+2022,uzbekistan,6.014
+2021,uzbekistan,6.063
+2020,uzbekistan,6.179
+2019,uzbekistan,6.25759983062744
+2018,uzbekistan,6.174
+2017,uzbekistan,6.096
+2016,uzbekistan,5.971
+2015,uzbekistan,5.987
+2024,zimbabwe,3.396
+2023,"venezuela, rb",5.607
+2022,"venezuela, rb",5.211
+2021,"venezuela, rb",4.925
+2020,"venezuela, rb",4.892
+2019,"venezuela, rb",5.05319976806641
+2018,"venezuela, rb",4.707
+2017,"venezuela, rb",4.806
+2016,"venezuela, rb",5.25
+2015,"venezuela, rb",6.084
+2024,malawi,3.26
+2023,viet nam,6.043
+2022,viet nam,5.763
+2021,viet nam,5.485
+2020,viet nam,5.411
+2019,viet nam,5.35349988937378
+2018,viet nam,5.175
+2017,viet nam,5.103
+2016,viet nam,5.074
+2015,viet nam,5.061
+2024,lebanon,3.188
+2023,"yemen, rep.",3.561
+2021,"yemen, rep.",4.197
+2020,"yemen, rep.",3.658
+2019,"yemen, rep.",3.52740001678467
+2018,"yemen, rep.",3.38
+2017,"yemen, rep.",3.355
+2016,"yemen, rep.",3.593
+2015,"yemen, rep.",3.724
+2024,sierra leone,2.998
+2023,zambia,3.502
+2022,zambia,3.982
+2021,zambia,3.76
+2020,zambia,4.073
+2019,zambia,3.75939989089966
+2018,zambia,4.107
+2017,zambia,4.377
+2016,zambia,4.514
+2015,zambia,4.795
+2024,afghanistan,1.364
+2023,zimbabwe,3.341
+2022,zimbabwe,3.204
+2021,zimbabwe,2.995
+2020,zimbabwe,3.145
+2019,zimbabwe,3.2992000579834
+2018,zimbabwe,3.663
+2017,zimbabwe,3.692
+2016,zimbabwe,3.875
+2015,zimbabwe,4.193
