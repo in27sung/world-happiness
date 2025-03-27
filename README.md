@@ -7,12 +7,13 @@ This project is submitted as the [**CS50 2025 Final Project**](https://cs50.harv
 
 ## Overview
 
-This project aims to explore and quantify the complex relationship between national happiness and measurable economic and social indicators. Motivated by the question of what truly drives well-being at a national scale, it seeks to go beyond surface-level economic metrics by incorporating multidimensional data.  
+This project explores how different economic and social factors relate to national happiness. I was curious about what really makes people in a country feel happier—not just from an economic perspective, but from a broader, more human point of view.
 
-This project includes a deeper investigation into data biases, missing values, and overlooked non-economic factors. Initial findings revealed a strong dependency on GDP in predictive models, often leading to systematic underestimation of happiness in low-income countries. 
+During the analysis, I started by looking at key issues like missing data and whether the model was relying too much on certain features. When I trained my first model, I noticed it leaned heavily on GDP, and as a result, it tended to underestimate the happiness scores of lower-income countries.
 
-The project addresses real-world data challenges—including cross-source integration, inconsistent formatting, and missing values—through rigorous preprocessing and feature engineering. It includes complete workflows for data acquisition, cleaning, exploratory analysis, regression modelling, and model interpretation. The ultimate goal is to produce not only accurate predictions, but also actionable insights into how diverse indicators shape national happiness.
+That made me realise that happiness can't be explained by economic strength alone. The current model uses fairly simple preprocessing and interpolation, but this outcome clearly shows that future versions should include more non-economic factors—like trust, freedom, or community support—and more advanced handling of missing data and country-level differences.
 
+The goal of this project isn’t just to make accurate predictions, but to better understand what really drives happiness across the world using data.
 
 ## Objectives
 
