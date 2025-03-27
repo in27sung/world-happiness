@@ -103,4 +103,4 @@ project/
 
 This project is for educational purposes and submitted as part of **CS50’s Introduction to Computer Science 2025 Final Project**.
 
-**Note:** AI-based tools (ChatGPT) were used to assist with structuring the README and project design but all data handling, analysis, and coding are the author’s original work. AI assistance is acknowledged as required by CS50 guidelines.
+**Note:** AI-based tools (ChatGPT) were used to assist with structuring the project design but all data handling, analysis, and coding are the author’s original work. AI assistance is acknowledged as required by CS50 guidelines.
